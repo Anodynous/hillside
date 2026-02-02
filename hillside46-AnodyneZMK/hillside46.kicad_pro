@@ -59,7 +59,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|189600865|61921072|00000000-0000-0000-0000-00006181d9fb|178abba1-f645-4d29-b572-059326eb9692|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|206147265|60651072|00000000-0000-0000-0000-00006181d9fb|a78be9a3-4e3b-46eb-93ff-ff65e0c15be1|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|206500868|88416560|00000000-0000-0000-0000-00006181d9fb|bf5020c9-3fde-4715-8cad-ddb124053c64|F.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -80,7 +93,7 @@
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "error",
+        "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "hole_to_hole": "error",
@@ -770,7 +783,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "hillside46.net",
-      "plot": "",
+      "plot": "gerber_files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

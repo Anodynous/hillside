@@ -127,7 +127,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "./gerber_hillside46")
+			(outputdirectory "gerber_files/")
 		)
 	)
 	(net 0 "")
