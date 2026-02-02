@@ -937,7 +937,7 @@
 			(net 14 "data")
 			(pinfunction "Ring1")
 			(pintype "passive")
-			(uuid "0963adce-9945-42a8-be79-2b7775738143")
+			(uuid "7b636a66-6b18-4416-bf7f-c7fd1da290c3")
 		)
 		(pad "R2" thru_hole oval
 			(at -2.1 8.7 270)
@@ -959,7 +959,7 @@
 			(net 22 "unconnected-(J2-PadR2)")
 			(pinfunction "Ring2")
 			(pintype "passive+no_connect")
-			(uuid "d94a8ab5-5b07-4985-9e8d-39c4f373cbcc")
+			(uuid "c0c8be4d-22e1-4fe0-ad47-26838c2e8344")
 		)
 		(pad "S" thru_hole oval
 			(at -0.35 0.2 270)
@@ -983,7 +983,7 @@
 			(pinfunction "Sleeve")
 			(pintype "passive")
 			(clearance 0.15)
-			(uuid "d6725194-6813-43bc-95a6-18a8e834255b")
+			(uuid "3167ff79-7ebf-46e7-b5a0-2affbe31426d")
 		)
 		(pad "T" thru_hole oval
 			(at -2.1 1.7 270)
@@ -1007,7 +1007,7 @@
 			(pinfunction "Tip")
 			(pintype "passive")
 			(clearance 0.15)
-			(uuid "976c5378-f2d2-48c7-87b6-3051d391e3c0")
+			(uuid "c5b955f9-aab9-48a9-a987-34ee6832833f")
 		)
 		(embedded_fonts no)
 		(model "../../../../../../Users/pluis/Documents/Magic Briefcase/Documents/KiCad/3d/AB2_TRS_3p5MM_PTH.wrl"
@@ -22753,18 +22753,6 @@
 		(sheetfile "hillside46.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(net_tie_pad_groups "1, 2")
-		(fp_poly
-			(pts
-				(xy 0.25 -0.3) (xy -0.25 -0.3) (xy -0.25 0.3) (xy 0.25 0.3)
-			)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-			(fill yes)
-			(layer "F.Cu")
-			(uuid "4778a21b-73f2-45a4-8ef5-3955c034308f")
-		)
 		(fp_line
 			(start 1.65 1.25)
 			(end -1.65 1.25)
@@ -25340,7 +25328,7 @@
 			(net 12 "reset")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "819962b9-e673-40ac-9972-c8f12863c8e4")
+			(uuid "1cee87f8-ed8c-44b3-86b9-12196aad3a67")
 		)
 		(pad "1" thru_hole custom
 			(at 0 -1.85 90)
@@ -25368,7 +25356,7 @@
 					(width 0.254)
 				)
 			)
-			(uuid "819962b9-e673-40ac-9972-c8f12863c8e4")
+			(uuid "3a763c82-569c-4f0e-b377-57e1e97e1e0b")
 		)
 		(pad "1" smd rect
 			(at 3.1 -1.85 90)
@@ -25377,7 +25365,7 @@
 			(net 12 "reset")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "819962b9-e673-40ac-9972-c8f12863c8e4")
+			(uuid "1ba6274e-a421-4201-90ad-6b803ba1e3dd")
 		)
 		(pad "1" smd rect
 			(at 3.1 -1.85 90)
@@ -25386,7 +25374,7 @@
 			(net 12 "reset")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "819962b9-e673-40ac-9972-c8f12863c8e4")
+			(uuid "6f0fa177-231a-4429-aeec-3875cdc889c9")
 		)
 		(pad "2" smd rect
 			(at -3.1 1.85 90)
@@ -25404,7 +25392,7 @@
 			(net 11 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e2e21d7f-402f-4e09-a64b-1cbec67773be")
+			(uuid "aa2e5fba-7a70-4b26-ac43-4e089339e0d7")
 		)
 		(pad "2" thru_hole custom
 			(at 0 1.85 90)
@@ -25432,7 +25420,7 @@
 					(width 0.254)
 				)
 			)
-			(uuid "e2e21d7f-402f-4e09-a64b-1cbec67773be")
+			(uuid "73c7990b-bc93-433f-a4fa-663b9feb4d5b")
 		)
 		(pad "2" smd rect
 			(at 3.1 1.85 90)
@@ -25441,7 +25429,7 @@
 			(net 11 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e2e21d7f-402f-4e09-a64b-1cbec67773be")
+			(uuid "a294637a-1613-4992-bf99-bb3fada8aade")
 		)
 		(pad "2" smd rect
 			(at 3.1 1.85 90)
@@ -25450,7 +25438,7 @@
 			(net 11 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e2e21d7f-402f-4e09-a64b-1cbec67773be")
+			(uuid "00bb4733-c1f8-4e29-b348-594462bf7efb")
 		)
 		(embedded_fonts no)
 		(model "${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_SKQG_WithStem.wrl"
