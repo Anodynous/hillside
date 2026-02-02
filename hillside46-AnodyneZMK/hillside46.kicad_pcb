@@ -3334,7 +3334,7 @@
 			)
 		)
 		(property "JLC Type" "Basic"
-			(at 185.317049 -20.968951 0)
+			(at 185.317048 -20.968951 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e196ba57-f0a8-424c-9282-cfed8d78afd4")
@@ -3346,7 +3346,7 @@
 			)
 		)
 		(property "LCSC" "C68978"
-			(at 185.317049 -20.968951 0)
+			(at 185.317048 -20.968951 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c4a4ed84-c80b-4f1f-9d64-04da14efb328")
@@ -3358,7 +3358,7 @@
 			)
 		)
 		(property "Price" ".02 @15+"
-			(at 185.317049 -20.968951 0)
+			(at 185.317048 -20.968951 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0497c726-8365-4f0e-aee1-bd771044e530")
@@ -3414,7 +3414,7 @@
 		)
 		(fp_line
 			(start 0.76 -1.58)
-			(end -0.7 -1.580001)
+			(end -0.7 -1.580002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -4049,7 +4049,7 @@
 		)
 		(fp_line
 			(start 0.76 -1.58)
-			(end -0.7 -1.580001)
+			(end -0.7 -1.580002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -4604,7 +4604,7 @@
 		(sheetfile "hillside46.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -8.000001 -8.5)
+			(start -8.000002 -8.5)
 			(end 8 -8.5)
 			(stroke
 				(width 0.15)
@@ -4674,7 +4674,7 @@
 			(uuid "5edd102c-bfae-40f9-bcdf-f85eecd34004")
 		)
 		(fp_line
-			(start 8.000001 8.5)
+			(start 8.000002 8.5)
 			(end -8 8.5)
 			(stroke
 				(width 0.15)
@@ -4686,7 +4686,7 @@
 		(fp_arc
 			(start -9 -7.5)
 			(mid -8.707107 -8.207107)
-			(end -8.000001 -8.5)
+			(end -8.000002 -8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -4719,7 +4719,7 @@
 		(fp_arc
 			(start 9 7.5)
 			(mid 8.707107 8.207106)
-			(end 8.000001 8.5)
+			(end 8.000002 8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -4970,7 +4970,7 @@
 		)
 		(fp_arc
 			(start 8.75 7.25)
-			(mid 8.457107 7.957105)
+			(mid 8.457107 7.957104)
 			(end 7.75 8.25)
 			(stroke
 				(width 0.15)
@@ -5112,7 +5112,7 @@
 		(sheetfile "hillside46.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -8.000001 -8.5)
+			(start -8.000002 -8.5)
 			(end 8 -8.5)
 			(stroke
 				(width 0.15)
@@ -5182,7 +5182,7 @@
 			(uuid "7126a57a-6d70-439d-a7f1-0de2d2bb2584")
 		)
 		(fp_line
-			(start 8.000001 8.5)
+			(start 8.000002 8.5)
 			(end -8 8.5)
 			(stroke
 				(width 0.15)
@@ -5194,7 +5194,7 @@
 		(fp_arc
 			(start -9 -7.5)
 			(mid -8.707107 -8.207107)
-			(end -8.000001 -8.5)
+			(end -8.000002 -8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -5227,7 +5227,7 @@
 		(fp_arc
 			(start 9 7.5)
 			(mid 8.707107 8.207106)
-			(end 8.000001 8.5)
+			(end 8.000002 8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -5478,7 +5478,7 @@
 		)
 		(fp_arc
 			(start 8.75 7.25)
-			(mid 8.457107 7.957105)
+			(mid 8.457107 7.957104)
 			(end 7.75 8.25)
 			(stroke
 				(width 0.15)
@@ -6335,7 +6335,7 @@
 		)
 		(fp_line
 			(start 0.76 -1.58)
-			(end -0.7 -1.580001)
+			(end -0.7 -1.580002)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -6890,7 +6890,7 @@
 		(sheetfile "hillside46.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 8.000001 8.5)
+			(start 8.000002 8.5)
 			(end -8 8.5)
 			(stroke
 				(width 0.15)
@@ -6960,7 +6960,7 @@
 			(uuid "44c2dd6c-d1f9-4478-ad9b-e2f1133c6cca")
 		)
 		(fp_line
-			(start -8.000001 -8.5)
+			(start -8.000002 -8.5)
 			(end 8 -8.5)
 			(stroke
 				(width 0.15)
@@ -6972,7 +6972,7 @@
 		(fp_arc
 			(start 9 7.5)
 			(mid 8.707107 8.207106)
-			(end 8.000001 8.5)
+			(end 8.000002 8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -7005,7 +7005,7 @@
 		(fp_arc
 			(start -9 -7.5)
 			(mid -8.707107 -8.207107)
-			(end -8.000001 -8.5)
+			(end -8.000002 -8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -7223,7 +7223,7 @@
 		)
 		(fp_arc
 			(start 8.75 7.25)
-			(mid 8.457107 7.957105)
+			(mid 8.457107 7.957104)
 			(end 7.75 8.25)
 			(stroke
 				(width 0.15)
@@ -8414,7 +8414,7 @@
 		(sheetfile "hillside46.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 8.000001 8.5)
+			(start 8.000002 8.5)
 			(end -8 8.5)
 			(stroke
 				(width 0.15)
@@ -8484,7 +8484,7 @@
 			(uuid "b6ecf87b-f729-4405-8e8c-d0ac7fbd9703")
 		)
 		(fp_line
-			(start -8.000001 -8.5)
+			(start -8.000002 -8.5)
 			(end 8 -8.5)
 			(stroke
 				(width 0.15)
@@ -8496,7 +8496,7 @@
 		(fp_arc
 			(start 9 7.5)
 			(mid 8.707107 8.207106)
-			(end 8.000001 8.5)
+			(end 8.000002 8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -8529,7 +8529,7 @@
 		(fp_arc
 			(start -9 -7.5)
 			(mid -8.707107 -8.207107)
-			(end -8.000001 -8.5)
+			(end -8.000002 -8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -8747,7 +8747,7 @@
 		)
 		(fp_arc
 			(start 8.75 7.25)
-			(mid 8.457107 7.957105)
+			(mid 8.457107 7.957104)
 			(end 7.75 8.25)
 			(stroke
 				(width 0.15)
@@ -17904,7 +17904,7 @@
 		(sheetfile "hillside46.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 8.000001 8.5)
+			(start 8.000002 8.5)
 			(end -8 8.5)
 			(stroke
 				(width 0.15)
@@ -17974,7 +17974,7 @@
 			(uuid "fa66f165-e8b8-4083-adb1-c7eb24e569eb")
 		)
 		(fp_line
-			(start -8.000001 -8.5)
+			(start -8.000002 -8.5)
 			(end 8 -8.5)
 			(stroke
 				(width 0.15)
@@ -17986,7 +17986,7 @@
 		(fp_arc
 			(start 9 7.5)
 			(mid 8.707107 8.207106)
-			(end 8.000001 8.5)
+			(end 8.000002 8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -18019,7 +18019,7 @@
 		(fp_arc
 			(start -9 -7.5)
 			(mid -8.707107 -8.207107)
-			(end -8.000001 -8.5)
+			(end -8.000002 -8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -18237,7 +18237,7 @@
 		)
 		(fp_arc
 			(start 8.75 7.25)
-			(mid 8.457107 7.957105)
+			(mid 8.457107 7.957104)
 			(end 7.75 8.25)
 			(stroke
 				(width 0.15)
@@ -25891,7 +25891,7 @@
 		(sheetfile "hillside46.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -8.000001 -8.5)
+			(start -8.000002 -8.5)
 			(end 8 -8.5)
 			(stroke
 				(width 0.15)
@@ -25961,7 +25961,7 @@
 			(uuid "b1b8aed6-9dd4-4c97-b504-a10e0bdfa457")
 		)
 		(fp_line
-			(start 8.000001 8.5)
+			(start 8.000002 8.5)
 			(end -8 8.5)
 			(stroke
 				(width 0.15)
@@ -25973,7 +25973,7 @@
 		(fp_arc
 			(start -9 -7.5)
 			(mid -8.707107 -8.207107)
-			(end -8.000001 -8.5)
+			(end -8.000002 -8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -26006,7 +26006,7 @@
 		(fp_arc
 			(start 9 7.5)
 			(mid 8.707107 8.207106)
-			(end 8.000001 8.5)
+			(end 8.000002 8.5)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -26257,7 +26257,7 @@
 		)
 		(fp_arc
 			(start 8.75 7.25)
-			(mid 8.457107 7.957105)
+			(mid 8.457107 7.957104)
 			(end 7.75 8.25)
 			(stroke
 				(width 0.15)
@@ -29375,208 +29375,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "hillside_basic:HoleBreakoff_1mm"
-		(layer "F.Cu")
-		(uuid "05fb9ba7-5c89-4a27-8c81-843a7c725b0b")
-		(at 100.240802 112.04565)
-		(descr "Hole Breakoff 1mm, no annular")
-		(tags "hole breakoff 1mm no annular")
-		(property "Reference" "H30"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "bfbb854e-d404-48d1-abe2-0acf0221963e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Breakoff Hole"
-			(at 0 1.4 0)
-			(layer "B.Fab")
-			(uuid "d0423a47-5abd-4516-9303-509d1b8d8281")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "68f2247d-32da-4d19-9bba-7ca8452abca7")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "74c29017-7743-4826-a864-f0b94f0c76ff")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Config" "do not fit"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "94b8cb30-f2c8-4eab-a39f-7f41b978244d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "eecc4219-158b-496d-aa32-5fdb9909c705")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/a7c87049-d6c8-4e91-95dc-8fdbdee4ce27")
-		(sheetfile "hillside46.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 0.6 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "9a81314f-46e4-40c5-80c5-32884578aafc")
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 1 1)
-			(drill 1)
-			(layers "*.Mask")
-			(solder_mask_margin 0.074)
-			(uuid "b916703c-dbc7-4915-acb2-6aeb0e5cd6a8")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "hillside_basic:HoleBreakoff_1mm"
-		(layer "F.Cu")
-		(uuid "15b91fb7-6d49-4062-adc3-b15c1a8cf6fc")
-		(at 85.193823 112.515671)
-		(descr "Hole Breakoff 1mm, no annular")
-		(tags "hole breakoff 1mm no annular")
-		(property "Reference" "H28"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "60a04384-5b53-498d-afb5-ff4000d619b6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Breakoff Hole"
-			(at 0 1.4 0)
-			(layer "B.Fab")
-			(uuid "a92b3ae3-fad4-4c8f-b9c1-b85d00d0080e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "29200240-e5d8-4732-85c0-5223fecba313")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "89d970b4-4a37-4f7b-a433-2fd4eeee2ad8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Config" "do not fit"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "09a501ca-dfaa-463f-b4e8-0f34cbea7ed3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3335c2b0-f5ad-4dd8-955c-2d660aea9a62")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/19c7ccb8-00d6-42d3-9a36-84e4a795c6ff")
-		(sheetfile "hillside46.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 0.6 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "2e70dfac-8fe7-49ca-8d0f-2eed7b0ee83e")
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 1 1)
-			(drill 1)
-			(layers "*.Mask")
-			(solder_mask_margin 0.074)
-			(uuid "57cb51c8-fbb9-499c-ae6a-afb1b6cbb4ff")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "hillside_basic:1pin_conn"
 		(layer "F.Cu")
 		(uuid "1d9cdadc-9036-4a95-b6db-fa7b3b74c869")
@@ -29892,107 +29690,6 @@
 			(layers "*.Cu" "*.Mask")
 			(solder_mask_margin 0.074)
 			(uuid "8fd517f0-5628-483f-8ffb-6c969f27e56a")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "hillside_basic:HoleBreakoff_1mm"
-		(layer "F.Cu")
-		(uuid "2ff1d5bf-392e-4bf5-bc7f-de34546ccdb4")
-		(at 92.177848 105.782514)
-		(descr "Hole Breakoff 1mm, no annular")
-		(tags "hole breakoff 1mm no annular")
-		(property "Reference" "H29"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ad95a2d3-b9f4-4556-98f3-880d0a123ca5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Breakoff Hole"
-			(at 0 1.4 0)
-			(layer "B.Fab")
-			(uuid "97bd7e13-8f3b-4bea-a4d4-5fbf0e5115bb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8c0c9fe6-3fb0-4cac-9b27-f34932d3c6d8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bdd74f8d-2b62-4a0c-a516-60cdaa79bc3b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Config" "do not fit"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4defe01f-1217-4374-bb24-0d86edf213d6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e54305d7-0f69-4943-b397-701be473e136")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/4a8abfdc-3337-4ea6-8723-66c13883792f")
-		(sheetfile "hillside46.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 0.6 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "7a5341d6-e52c-49cf-9031-72240fd77c19")
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 1 1)
-			(drill 1)
-			(layers "*.Mask")
-			(solder_mask_margin 0.074)
-			(uuid "83909388-2475-425d-80af-ec81f3d366e1")
 		)
 		(embedded_fonts no)
 	)
@@ -32055,208 +31752,6 @@
 			)
 		)
 	)
-	(footprint "hillside_basic:HoleBreakoff_1mm"
-		(layer "F.Cu")
-		(uuid "87846427-b8e8-4c68-81ef-ece20a47245e")
-		(at 77.727848 95.332514)
-		(descr "Hole Breakoff 1mm, no annular")
-		(tags "hole breakoff 1mm no annular")
-		(property "Reference" "H27"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "34ee0ff4-647c-4444-92e6-888228e741a8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Breakoff Hole"
-			(at -0.773019 1.620639 0)
-			(layer "B.Fab")
-			(uuid "75f68f9a-bb4b-480d-94aa-a003998ad048")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dd77aea5-9c77-450d-a614-a50d06567551")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "178bfa6f-664c-4e6f-bd43-a72beddf66f4")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Config" "do not fit"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "95dd5e82-4e4b-4891-9031-df9ba215ccc6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6ae0273d-04c8-451f-b59d-770a08cd83b1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/345e7adc-18b5-4526-9074-ca54f438b521")
-		(sheetfile "hillside46.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 0.6 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "d7c44b4b-27ca-4796-849b-9639a3b1f633")
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 1 1)
-			(drill 1)
-			(layers "*.Mask")
-			(solder_mask_margin 0.074)
-			(uuid "7262d622-775c-4eda-bb5e-7c130de30c21")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "hillside_basic:HoleBreakoff_1mm"
-		(layer "F.Cu")
-		(uuid "9411a5a0-a51c-4288-937a-0c97d9e1e7bf")
-		(at 94.527847 94.132514)
-		(descr "Hole Breakoff 1mm, no annular")
-		(tags "hole breakoff 1mm no annular")
-		(property "Reference" "H31"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5b8e318f-06bb-4d83-ba2f-ba7c072baf11")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Breakoff Hole"
-			(at 0 1.4 0)
-			(layer "B.Fab")
-			(uuid "772d6107-ca51-43a7-b527-2774e263ab32")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "923d1d03-bc53-4106-b59f-073a0e208492")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c824385a-57db-4881-9ccf-800283c42e6c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Config" "do not fit"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aa5524db-1e91-427e-a474-95f447023e02")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4776755d-dd51-4f5a-ace0-6721dd81059d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/020d4ff4-90d6-4b5f-8911-17a6538d4fd9")
-		(sheetfile "hillside46.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 0.6 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "7b709ace-541a-4233-abc6-ea64e470860f")
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 1 1)
-			(drill 1)
-			(layers "*.Mask")
-			(solder_mask_margin 0.074)
-			(uuid "c2afd6a2-e6f5-4e41-98a1-40d66517aa62")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "hillside_basic:ToolingHole_1.152mm"
 		(layer "F.Cu")
 		(uuid "a43b5f02-c600-4c28-9bf1-08634b89b1c5")
@@ -32894,107 +32389,6 @@
 			(fill no)
 			(layer "User.2")
 			(uuid "995f610c-8404-4e6b-81bb-f283eee7c59e")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "hillside_basic:HoleBreakoff_1mm"
-		(layer "F.Cu")
-		(uuid "cfafd283-7388-4f87-be75-1fd3afb962c2")
-		(at 77.427848 83.232515)
-		(descr "Hole Breakoff 1mm, no annular")
-		(tags "hole breakoff 1mm no annular")
-		(property "Reference" "H26"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3a629150-d77a-42bb-9034-75410132504f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Breakoff Hole"
-			(at 0 1.4 0)
-			(layer "B.Fab")
-			(uuid "af2bb5f3-dd2a-4c2b-b35f-3bf3d5552116")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "270e48d4-8551-4dcd-8210-8bbe44c42d03")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cae7b844-8a27-41fb-a1f1-b678434331db")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Config" "do not fit"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "679c4fa8-48a8-45b7-a5f5-5e93141bb37a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b70b08f3-10f2-449b-b3d2-28e2cfcde27e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/f5b569f2-c8ca-4496-b3b0-9ac9ecb38973")
-		(sheetfile "hillside46.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 0.6 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "7856a833-f670-4ba5-ab27-737eb95608cb")
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 1 1)
-			(drill 1)
-			(layers "*.Mask")
-			(solder_mask_margin 0.074)
-			(uuid "524cc714-7d6f-41f4-9ee4-196c4c9f5414")
 		)
 		(embedded_fonts no)
 	)
@@ -34423,27 +33817,6 @@
 		(layer "Edge.Cuts")
 		(uuid "00000000-0000-0000-0000-0000613a09ab")
 	)
-	(gr_arc
-		(start 95.14042 86.095612)
-		(mid 95.546004 85.51671)
-		(end 96.125223 85.921965)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "00000000-0000-0000-0000-0000613fafda")
-	)
-	(gr_line
-		(start 96.125223 85.921965)
-		(end 97.323323 92.717201)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "00000000-0000-0000-0000-0000613fb013")
-	)
 	(gr_line
 		(start 213.490869 91.699069)
 		(end 213.490863 61.984597)
@@ -34453,16 +33826,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "00000000-0000-0000-0000-0000617766f3")
-	)
-	(gr_line
-		(start 91.896901 84.382724)
-		(end 91.896897 69.230652)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "00000000-0000-0000-0000-00006179df9c")
 	)
 	(gr_curve
 		(pts
@@ -34474,27 +33837,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "027cb229-6475-476f-a2db-466c6838d063")
-	)
-	(gr_line
-		(start 88.696903 83.770597)
-		(end 80.023783 83.770606)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "076517a6-f095-4185-b35b-a7ef36ffaf7a")
-	)
-	(gr_arc
-		(start 88.876737 112.383877)
-		(mid 88.297665 111.978305)
-		(end 88.703089 111.399071)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "12aaef64-8be9-47a8-a033-d4e8502bcd7d")
 	)
 	(gr_arc
 		(start 85.373766 118.587613)
@@ -34518,16 +33860,6 @@
 		(layer "Edge.Cuts")
 		(uuid "1bf20e62-9fd6-4d55-b6f6-1ee95418f6c8")
 	)
-	(gr_line
-		(start 92.896907 69.230649)
-		(end 92.896905 84.382724)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2b38f935-d567-4d87-81e7-f2c38b013f0f")
-	)
 	(gr_curve
 		(pts
 			(xy 214.717343 130.722925) (xy 216.410866 129.099069) (xy 216.560866 126.329067) (xy 216.566189 124.479813)
@@ -34548,17 +33880,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "42ff71dc-a9cf-409d-a7f6-5ef59335c9bc")
-	)
-	(gr_arc
-		(start 81.054964 95.84123)
-		(mid 80.554829 95.341261)
-		(end 81.054967 94.841239)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "450b4cc7-4a63-4e6e-aafa-298bb5766100")
 	)
 	(gr_curve
 		(pts
@@ -34593,28 +33914,6 @@
 		(layer "Edge.Cuts")
 		(uuid "4c7c1750-2fe2-4712-8368-2c731fd8e285")
 	)
-	(gr_arc
-		(start 91.896897 69.230652)
-		(mid 92.396917 68.73074)
-		(end 92.896907 69.230649)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "4f84cf8a-c98b-44cf-9573-097770651546")
-	)
-	(gr_arc
-		(start 88.22388 94.841237)
-		(mid 88.723844 95.341259)
-		(end 88.223886 95.841236)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "5de58f29-b6e5-4d56-baa0-52d2f05a1f22")
-	)
 	(gr_line
 		(start 117.321837 112.954302)
 		(end 85.373766 118.587613)
@@ -34624,26 +33923,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "633f75c5-3e59-4c5c-acaa-7b07045091db")
-	)
-	(gr_line
-		(start 99.136816 108.736999)
-		(end 98.059862 102.628818)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "7254cdae-8b03-4908-ad84-7f0f540ccaa2")
-	)
-	(gr_line
-		(start 91.89691 102.870604)
-		(end 91.896867 95.541239)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "72af242a-5d69-4dd4-8c3e-d805a4390564")
 	)
 	(gr_line
 		(start 82.188018 116.356923)
@@ -34656,38 +33935,6 @@
 		(uuid "73c6af3a-9317-4f97-b55d-9c8e32af27b2")
 	)
 	(gr_line
-		(start 95.073886 111.291236)
-		(end 88.876737 112.383877)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "742d1413-eba9-45fd-ac79-ee90fcfb7a85")
-	)
-	(gr_arc
-		(start 80.023783 83.770606)
-		(mid 79.523774 83.270562)
-		(end 80.023783 82.770602)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "78babddd-6253-4e46-b5ad-6f172e613482")
-	)
-	(gr_arc
-		(start 98.059862 102.628818)
-		(mid 98.46549 102.049735)
-		(end 99.044669 102.455168)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "79c10e4a-33db-4931-95fc-0f03a974dd11")
-	)
-	(gr_line
 		(start 209.240859 50.689066)
 		(end 209.240868 52.349068)
 		(stroke
@@ -34696,38 +33943,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "7b2bae8f-5cbf-4d21-956c-63389b17e495")
-	)
-	(gr_arc
-		(start 100.121624 108.563354)
-		(mid 99.716076 109.142665)
-		(end 99.136816 108.736999)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "831307a6-fa7c-4967-8755-a1619a7b2673")
-	)
-	(gr_arc
-		(start 88.6969 82.770605)
-		(mid 89.196876 83.27056)
-		(end 88.696903 83.770597)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "842f2a95-a909-465a-be94-3260f8ba71aa")
-	)
-	(gr_line
-		(start 80.023783 82.770602)
-		(end 88.6969 82.770605)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "862ee894-f9f3-4caa-8be4-324cfb2a1cd7")
 	)
 	(gr_curve
 		(pts
@@ -34751,57 +33966,6 @@
 		(layer "Edge.Cuts")
 		(uuid "9cb0a88e-7b29-4b81-b303-624066e57d9d")
 	)
-	(gr_line
-		(start 99.044669 102.455168)
-		(end 100.121624 108.563354)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "9e8b7507-3aac-4eaa-b6eb-a4f7b756f2da")
-	)
-	(gr_line
-		(start 88.703089 111.399071)
-		(end 94.900241 110.306432)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "9f09404e-1fca-4293-b6cf-fc7dbf7d952f")
-	)
-	(gr_arc
-		(start 92.896901 102.8706)
-		(mid 92.396921 103.370643)
-		(end 91.89691 102.870604)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a025d556-c06c-417e-81d4-673ce9bd728e")
-	)
-	(gr_line
-		(start 81.054967 94.841239)
-		(end 88.22388 94.841237)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a4da0f0c-4c4f-4e56-bf2c-233f2ba76b73")
-	)
-	(gr_line
-		(start 96.338517 92.890845)
-		(end 95.14042 86.095612)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a8c80ea1-dcfb-47f6-ab70-bfc319a49d05")
-	)
 	(gr_arc
 		(start 74.075818 70.062418)
 		(mid 74.721359 68.30724)
@@ -34812,26 +33976,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "b9f2557f-071c-4754-932a-6915988ff52c")
-	)
-	(gr_line
-		(start 92.896872 95.541239)
-		(end 92.896901 102.8706)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "c0cf74f7-108b-4f5a-9bc0-f3d63180eb96")
-	)
-	(gr_line
-		(start 88.223886 95.841236)
-		(end 81.054964 95.84123)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "d34c0e92-979d-49fa-bf71-a02752da4e7a")
 	)
 	(gr_curve
 		(pts
@@ -34855,17 +33999,6 @@
 		(layer "Edge.Cuts")
 		(uuid "dacbdfdf-846c-44de-b408-34e454287fb5")
 	)
-	(gr_arc
-		(start 91.896867 95.541239)
-		(mid 92.39687 95.041208)
-		(end 92.896872 95.541239)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "dcc8618a-7d8b-4b6a-9160-22d597fd83ec")
-	)
 	(gr_line
 		(start 207.240869 48.689064)
 		(end 194.040859 48.68907)
@@ -34875,28 +34008,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e074abde-4021-49fc-aae7-4cb84c5fab22")
-	)
-	(gr_arc
-		(start 94.900241 110.306432)
-		(mid 95.479578 110.711947)
-		(end 95.073886 111.291236)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e751e8a5-2ee1-4660-bb6d-6944bd290c1c")
-	)
-	(gr_arc
-		(start 92.896905 84.382724)
-		(mid 92.396903 84.882515)
-		(end 91.896901 84.382724)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e93ee68d-eaca-4d5f-8039-2c05a18d1184")
 	)
 	(gr_curve
 		(pts
@@ -34908,17 +34019,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "eecafdc6-61f3-42da-9f5a-a75cb7bc4352")
-	)
-	(gr_arc
-		(start 97.323323 92.717201)
-		(mid 96.917745 93.296589)
-		(end 96.338517 92.890845)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f3e71b0d-9c92-4632-809d-4c6cb9961a1c")
 	)
 	(gr_circle
 		(center 175.675854 51.832515)
@@ -35001,87 +34101,10 @@
 			)
 		)
 	)
-	(gr_text "CUT OUT"
-		(at 92.454829 77.103153 90)
-		(layer "F.Fab")
-		(uuid "00000000-0000-0000-0000-0000612aa23e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "CUT OUT"
-		(at 91.854829 111.403153 10)
-		(layer "F.Fab")
-		(uuid "0141e841-5dfb-4250-b17a-822cde5ff374")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "CUT OUT"
-		(at 83.696901 83.270599 0)
-		(layer "F.Fab")
-		(uuid "123a8599-c08b-4b1a-8cc1-4ea1fdc558cb")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
 	(gr_text "CUT\nOUT"
 		(at 175.670821 51.803958 0)
 		(layer "F.Fab")
 		(uuid "14871e9e-2bbf-4c90-86c8-15d84a0a8f2a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "CUT OUT"
-		(at 96.300866 89.411877 100)
-		(layer "F.Fab")
-		(uuid "47a1056e-94df-4cc7-a844-66b7d132819d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "CUT OUT"
-		(at 92.500867 99.311877 90)
-		(layer "F.Fab")
-		(uuid "5f1f26ac-fca8-4b28-982d-4f9e8939a95f")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "CUT"
-		(at 99.154829 105.653153 100)
-		(layer "F.Fab")
-		(uuid "97929af0-f9bd-4128-9f4e-12ab4edc4154")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "CUT OUT"
-		(at 84.554829 95.403153 0)
-		(layer "F.Fab")
-		(uuid "9c2a9e51-9c37-4c98-bebd-bad8864c3261")
 		(effects
 			(font
 				(size 1 1)
@@ -35097,149 +34120,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "-cut A-"
-		(at 76.704829 83.103153 0)
-		(layer "User.3")
-		(uuid "0ff5646b-0dbe-416e-94b1-2791e9a09318")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-cut A-"
-		(at 92.354829 66.591236 90)
-		(layer "User.3")
-		(uuid "2a25d3b8-72f1-4cc6-8efa-767f1696aa3e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-br-"
-		(at 90.473885 83.241236 0)
-		(layer "User.3")
-		(uuid "3c9a0a91-f70f-4f02-bcbf-b7478186d5c8")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "cut Y-"
-		(at 94.354829 94.203153 25)
-		(layer "User.3")
-		(uuid "671718ba-ab5a-4705-b120-d58722cfbe8e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-cut 2-"
-		(at 92.854829 109.203153 100)
-		(layer "User.3")
-		(uuid "6b91774d-32c4-4387-b29f-b700d46068e7")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-br-"
-		(at 90.004829 95.453153 0)
-		(layer "User.3")
-		(uuid "a1c74667-af6d-4de4-a24f-1accf85e66aa")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-br-"
-		(at 97.304829 109.853153 10)
-		(layer "User.3")
-		(uuid "b7ac9be6-fd54-41a7-acd7-a12e878c204a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-2-"
-		(at 92.204829 103.853153 90)
-		(layer "User.3")
-		(uuid "c733268d-d32b-4d28-a6b0-f32fb20d7836")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-cut 1-"
-		(at 100.354829 112.853153 100)
-		(layer "User.3")
-		(uuid "c735b512-731e-4b87-ab97-457a060a19ca")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-cut 2-"
-		(at 76.954829 95.403153 0)
-		(layer "User.3")
-		(uuid "d36121b8-8abb-413c-a60e-e886fb0cd0a0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-cut 3-"
-		(at 95.654829 102.203153 350)
-		(layer "User.3")
-		(uuid "def370fd-67a2-42ba-947a-7fac03224625")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-cut 1-"
-		(at 84.454829 112.653153 10)
-		(layer "User.3")
-		(uuid "e46e7476-4b86-4a25-a3fd-862ca6d177c8")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "-cut Z-"
-		(at 94.854829 85.303153 -20)
-		(layer "User.3")
-		(uuid "f6dcfc67-fbda-48a0-9473-c6db44eb58ef")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
 			)
 		)
 	)
