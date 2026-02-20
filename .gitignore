@@ -32,7 +32,8 @@
 */gerber_*/*.dxf
 */gerber_*.zip
  
-
+# Ignore ZMK builds backup directory
+/ZMK builds/*
 
 # References
 # KiCad 6 files:
